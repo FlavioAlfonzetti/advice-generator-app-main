@@ -10,4 +10,4 @@ Live demo: https://advice-generator-app-eufz.onrender.com
 </p>
 
 # Issues
-The app has been tested on multiple browsers and it works fine, but it may not work properly on Firefox and Firefox Developer Edition. Specifically, you may not be able to generate new advice every 2 seconds (as it should) but need to wait a few minutes. The issue is being investigated.
+The app has been tested on multiple browsers and it works fine, but it may not work properly on Firefox and Firefox Developer Edition. Specifically, you may not be able to generate new advice every 2 seconds (as it should) but need to wait a few minutes before clicking the button. The issue is being investigated.
